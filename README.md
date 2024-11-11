@@ -1,5 +1,9 @@
 # Mast-Part-3
 
+Git Hub link - https://github.com/melleevinn/Mast-Part-3 (JavaScript)
+Git Hub link - https://github.com/melleevinn/Mast-Part-3.0 (Typescript)
+YouTube - link https://youtube.com/shorts/_RmegVlGEWQ?feature=shared
+
 Christoffel's Culinary Mobile App
 
 1. Project Overview
