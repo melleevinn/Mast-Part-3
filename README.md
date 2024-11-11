@@ -58,11 +58,11 @@ Styling Choices
 
 6. Code and Structure Summary
 Key Files
-•	App.tsx: Main entry file that sets up navigation and provides the Cart context across the app.
-•	HomeScreen.tsx: Displays a welcome message, average course prices, and navigation buttons.
-•	MenuScreen.tsx: Lists all menu items with “Add to Cart” options and a filter function for course types.
-•	AddMenuItemScreen.tsx: Allows chefs to dynamically add new menu items with details.
-•	CheckoutScreen.tsx: Shows the cart summary and calculates the total price. 
+•	App: Main entry file that sets up navigation and provides the Cart context across the app.
+•	HomeScreen: Displays a welcome message, average course prices, and navigation buttons.
+•	MenuScreen: Lists all menu items with “Add to Cart” options and a filter function for course types.
+•	AddMenuItemScreen: Allows chefs to dynamically add new menu items with details.
+•	CheckoutScreen: Shows the cart summary and calculates the total price. 
 
 Code and Design Enhancements
 •	Custom Context API: Simplifies global state management, making it easy to access and manipulate cart data across screens.
